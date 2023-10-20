@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/package-lock.json
+/public/favicon.ico
+/public/index.html
+/public/logo192.png
+/public/logo512.png
+/public/manifest.json
+/public/robots.txt
+/src/logo.svg
